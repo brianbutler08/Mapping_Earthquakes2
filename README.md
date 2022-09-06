@@ -6,7 +6,7 @@ For this project we utilized GeoJSON earthquake data to create interactive maps 
 
 There are three separate overlays that can be selected:
 - All earthquakes that that were recorded over the past seven days
-- Recorded earthquakes with a magnitude greater than 4.5 from the paast seven days
+- Recorded earthquakes with a magnitude greater than 4.5 from the past seven days
 - Tectonic plate boundaries
 
 # Result
