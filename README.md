@@ -15,4 +15,4 @@ The maps can be found here: https://brianbutler08.github.io/Mapping_Earthquakes2
 
 The menu in the upper right can be used to select the base map in addition to any layer(s).
 
-!["map image"()
+![map image](https://github.com/brianbutler08/Mapping_Earthquakes2/blob/main/Screen%20Shot%202022-09-06%20at%201.22.26%20PM.png)
